@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div {
+    background-color: hsl(160, 100%, 75%);
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
